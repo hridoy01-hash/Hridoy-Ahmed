@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/hridoy-ahmed-48a67a143/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bvm2kI%2BY9SXejBHm64NwYcg%3D%3D">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://hridoy-ahmed-314da.web.app/">
-    <img src="https://i.ibb.co/8NGfDf1/portfolio-plus-banking-software-vector-logo.png" />        
-  </a>&nbsp;&nbsp;
   
 </p>
 
